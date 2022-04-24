@@ -1,2 +1,2 @@
-# echo-neko.SpellWell.github.io
+SpellWell
 A spelling game!
